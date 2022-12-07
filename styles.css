@@ -111,10 +111,35 @@ body {
     align-items: center;
 }
 
-.locations h3,p {
+.locations h3 {
+    margin: 40px 0;
+}
+
+.locations p {
     margin: 40px 0;
 }
 
 .locations-image h2 {
     margin-bottom: 15px;
+}
+
+/* Contact Info */
+
+.contact-info {
+    display: flex;
+    text-align: center;
+    flex-direction: column;
+    height: 200px;
+}
+
+.contact-info h2 {
+    margin-top: 10px;
+}
+
+.contact-info h5 {
+    margin: 10px 0;
+}
+
+.contact-info p {
+    margin-top: 10px;
 }
