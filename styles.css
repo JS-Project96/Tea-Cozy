@@ -30,7 +30,7 @@ body {
     list-style: none;
 }
 
-li {
+.nav-links li {
     padding: 0 10px;
 }
 
@@ -80,6 +80,6 @@ li {
     margin: 0 10px;
 }
 
-h4 {
+.totm-images h4 {
     margin-top: 10px;
 }
