@@ -38,6 +38,10 @@ body {
     padding: 0 10px;
 }
 
+.nav-links a {
+    color: seashell
+}
+
 /* Company Mission Hero section */
 
 .hero-image {
